@@ -6,11 +6,13 @@ APB Protocol Implementation
 UVM-based Testbench for Functional Verification
 Coverage and Assertion Integration
 Test cases for Read/Write transactions
+
 Files:
 apb_driver.sv – Driver implementation
 apb_env.sv – Environment setup
 apb_seq.sv – Sequence for APB transactions
 testbench.sv – Main testbench to run simulations
+
 Usage:
 Clone the repository.
 Compile the SystemVerilog files using your preferred simulator (e.g., Mentor Questa).
